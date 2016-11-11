@@ -1,14 +1,9 @@
 
 TITLE: 
-Charity - 100% Fully Responsive Free HTML5 Bootstrap Template
+Wireless Cloud Services 
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
-
+Sheheryar Ahmad 
 
 CREDITS:
 
@@ -53,4 +48,7 @@ http://markdalgleish.com/projects/stellar.js/
 
 Demo Images
 http://unsplash.com/
+
+Template
+http://freehtml5.co
 
