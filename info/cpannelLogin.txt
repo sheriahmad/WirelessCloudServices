@@ -1,0 +1,5 @@
+cpannel user name: wscadmin
+cpannel password: t@ZPSasIO17c3e
+
+username:ijaz_
+pass
