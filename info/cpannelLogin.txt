@@ -1,5 +1,3 @@
-cpannel user name: wscadmin
-cpannel password: t@ZPSasIO17c3e
+cpannel user name: wcssite
+cpannel password: zuyJ@FU41hiz6N
 
-username:ijaz_
-pass
