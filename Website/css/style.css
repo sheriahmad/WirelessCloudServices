@@ -7,6 +7,7 @@
 }
 /* =======================================================
 *
+* 	Template Style 
 *	Edit this section
 *
 * ======================================================= */
@@ -135,7 +136,7 @@ figure {
 .fh5co-cover,
 .fh5co-hero {
   position: relative;
-  height: 600px;
+  height: 800px;
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover,
