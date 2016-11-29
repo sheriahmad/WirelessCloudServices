@@ -1,0 +1,20 @@
+1. Add Fonts to 
+HOME 
+MEET THE TEAM
+MISSION STATEMENT
+
+2. Add Fonts to Product
+
+W-IOT 
+
+Cloud for Cloud Products
+Others for other two services
+
+
+3. Contact Us page
+
+
+4. Tabs bullet 'DOT' removal and change it to sections/some other format
+
+
+5. Add logo when its ready
